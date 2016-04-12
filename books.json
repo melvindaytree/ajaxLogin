@@ -1,0 +1,6 @@
+[
+    { "title" : "fake title 1", "author" : "joel salisbury", "ISBN" : "555-555-5555", "genre" : "nerdy" },
+    { "title" : "fake title 2", "author" : "mike v", "ISBN" : "555-555-5556", "genre" : "nerdy" },
+    { "title" : "fake title 3", "author" : "tim hunter", "ISBN" : "555-555-5557", "genre" : "design" },
+    { "title" : "fake title 4", "author" : "sam olschan", "ISBN" : "555-555-5558", "genre" : "design" }
+]
